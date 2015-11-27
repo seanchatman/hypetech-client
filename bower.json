@@ -1,0 +1,14 @@
+{
+  "name": "untitled_1",
+  "version": "0.0.2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "marked": "0.3.3"
+  }
+}
